@@ -7,3 +7,6 @@ print(f'A nota final é {media}')
 
 if media > 7 :
     print('Aprovado')
+
+else:
+    print('Reprovado')
